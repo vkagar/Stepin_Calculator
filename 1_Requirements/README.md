@@ -1,4 +1,4 @@
-# Simple Calculator  
+# Calculator  
 
 ## Introduction:-   
 Simple calculator is a project to allow users to calculate basic four operations in mathematics ,they are addition, subtraction, multiplication, division but in this Project
