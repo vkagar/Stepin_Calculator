@@ -20,3 +20,6 @@ Folder             | Description
 `2_Architecture`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Testplan`      | Documents with test plans and procedures
+
+![Movie Ticket Booking System](https://user-images.githubusercontent.com/94288413/143204744-6c89c30a-6ff8-4441-bbd7-a7ea96095eb3.jpg)
+
